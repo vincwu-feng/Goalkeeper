@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="330" viewBox="0 0 1180 330" font-family="'PingFang SC','Microsoft YaHei','Hiragino Sans GB','Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#8d9aa8"/>
+    </marker>
+  </defs>
+
+  <rect width="1180" height="330" fill="#ffffff"/>
+
+  <text x="28" y="42" font-size="18" font-weight="700" fill="#1a2733">整体流程</text>
+
+  <g stroke="#d7dde3" fill="#f5f7f9">
+    <rect x="28"  y="76" width="196" height="88" rx="12"/>
+    <rect x="700" y="76" width="196" height="88" rx="12"/>
+  </g>
+  <rect x="264" y="76" width="196" height="88" rx="12" fill="#fff1f3" stroke="#ff6b7a" stroke-width="1.8"/>
+  <rect x="500" y="76" width="160" height="88" rx="12" fill="#edf9f9" stroke="#3fc7c7" stroke-width="1.8"/>
+  <rect x="936" y="76" width="216" height="88" rx="12" fill="#fef7ec" stroke="#e2a44f" stroke-width="1.8"/>
+
+  <g font-size="16" fill="#1a2733" text-anchor="middle">
+    <text x="126" y="116">说出你想做什么</text>
+    <text x="362" y="116" font-weight="700" fill="#c8384b">确认目标契约</text>
+    <text x="580" y="116" font-weight="700" fill="#1c7d7d">围绕目标生成</text>
+    <text x="798" y="110">交付作品</text>
+    <text x="798" y="132">+ 设计解读</text>
+    <text x="1044" y="110" font-weight="700" fill="#a8721c">提出修改</text>
+    <text x="1044" y="132" font-weight="700" fill="#a8721c">目标守卫把关</text>
+  </g>
+
+  <g font-size="12.5" fill="#8d9aa8" text-anchor="middle">
+    <text x="126" y="148">一句话</text>
+    <text x="362" y="148">目标 · 验收 · 锁定项</text>
+    <text x="798" y="152">每条解读可定位</text>
+  </g>
+
+  <g stroke="#8d9aa8" stroke-width="1.6" marker-end="url(#arw)" fill="none">
+    <path d="M 224 120 L 258 120"/>
+    <path d="M 460 120 L 494 120"/>
+    <path d="M 660 120 L 694 120"/>
+    <path d="M 896 120 L 930 120"/>
+  </g>
+
+  <path d="M 1044 164 C 1044 224 1044 244 900 244 L 620 244 C 580 244 580 200 580 170"
+        stroke="#e2a44f" stroke-width="1.6" fill="none" stroke-dasharray="6 5" marker-end="url(#arw)"/>
+  <text x="820" y="266" font-size="13" fill="#a8721c" text-anchor="middle">通过守卫的修改，生成新版本</text>
+
+  <text x="28" y="308" font-size="13.5" fill="#5b6b7a">目标契约贯穿全流程：生成依据它，设计解读回溯它，每次修改先与它比对</text>
+</svg>
