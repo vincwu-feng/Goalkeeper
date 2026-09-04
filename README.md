@@ -6,7 +6,8 @@
 
 👉 **在线体验**：https://vincwu-feng.github.io/Goalkeeper/
 
-▶️ [完整流程录屏](screenshots/goalkeeper流程.mp4)
+<img width="2136" height="1126" alt="image" src="https://github.com/user-attachments/assets/0ac120ab-28d6-42e3-9b73-c228719f69f5" />
+
 
 ---
 
