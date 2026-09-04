@@ -4,7 +4,7 @@
 
 一句话就能生成可玩的 H5，这件事很多平台都能做。GoalKeeper 的不同在于：它先把需求背后的**目标**问清楚、锁成契约，再据此设计作品；交付时告诉你每处设计如何服务这个目标；之后每一次修改，都会先判断它是否偏离了当初确认的目标。
 
-👉 **在线体验**：https://your-demo-url
+👉 **在线体验**：https://vincwu-feng.github.io/Goalkeeper/
 
 ▶️ [完整流程录屏](screenshots/goalkeeper流程.mp4)
 
